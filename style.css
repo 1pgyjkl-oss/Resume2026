@@ -1,4 +1,33 @@
-/*사이트 헤더*/
+/* header */
+.site-inner {
+  padding: 0 32px;
+  height: 76px;
+  position: sticky;
+  top: 0;
+  border-bottom: 1px solid #f1dfd2;
+  background-color: rgb(255 248 243 / 88%);
+  backdrop-filter: blur(12px);
+  z-index: 100;
+}
+
+.site-nav {
+  position: absolute;
+  top: 50%;
+  right: 32px;
+  transform: translateY(-50%);
+}
+
+.site-nav ul > li {
+  margin-left: 24px;
+  display: inline-block;
+  font-size: 15px;
+  line-height: 76px;
+}
+
+.site-nav a {
+  position: relative;
+  font-weight: 700;
+}
 
 /*footer*/
 .site-footer {
