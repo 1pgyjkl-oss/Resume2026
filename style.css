@@ -1,1 +1,12 @@
-
+/*footer*/
+.site-footer {
+  max-width: 1024px;
+  height: 90px;
+  margin-top: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-top: 1px solid #f0dfd3;
+  color: #7c746e;
+  background-color: #d9d9d9;
+}
