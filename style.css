@@ -121,8 +121,24 @@
 }
 
 /*Portfolio*/
+
 /*Skills*/
+
+.Skills img {
+  width: 100px;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+}
 /*Contact*/
+
+.Contact img {
+  width: 100px;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /*footer*/
 .site-footer {
   height: 90px;
