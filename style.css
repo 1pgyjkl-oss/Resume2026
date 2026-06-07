@@ -122,6 +122,14 @@
 
 /*Portfolio*/
 
+.Portfolio img {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /*Skills*/
 
 .Skills img {
